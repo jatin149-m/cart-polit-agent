@@ -1,0 +1,44 @@
+[
+  {
+    "product_id": "BP-X2",
+    "name": "BassPods X2",
+    "category": "wireless earbuds",
+    "price_inr": 1799.0,
+    "stock": 42
+  },
+  {
+    "product_id": "BP-PRO",
+    "name": "BassPods Pro ANC",
+    "category": "wireless earbuds",
+    "price_inr": 3499.0,
+    "stock": 15
+  },
+  {
+    "product_id": "SW-T1",
+    "name": "PulseFit Smartwatch T1",
+    "category": "smartwatch",
+    "price_inr": 2999.0,
+    "stock": 20
+  },
+  {
+    "product_id": "CH-USB-C",
+    "name": "65W USB-C Fast Charger",
+    "category": "charger",
+    "price_inr": 899.0,
+    "stock": 100
+  },
+  {
+    "product_id": "SPK-MINI",
+    "name": "EchoBox Mini Bluetooth Speaker",
+    "category": "speaker",
+    "price_inr": 1299.0,
+    "stock": 60
+  },
+  {
+    "product_id": "KB-MECH",
+    "name": "ClickType Mechanical Keyboard",
+    "category": "keyboard",
+    "price_inr": 2499.0,
+    "stock": 25
+  }
+]
